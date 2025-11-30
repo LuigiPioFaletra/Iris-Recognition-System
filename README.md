@@ -294,3 +294,9 @@ Get-ChildItem -Path . -Recurse -Include *.pkl, *.txt | Remove-Item -Force
 - The system uses SIFT, which requires OpenCV’s contrib package if extended functionality is desired.
 - Results depend significantly on the segmentation quality.
 - The dataset must be correctly placed for the system to function.
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
