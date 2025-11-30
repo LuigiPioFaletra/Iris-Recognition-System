@@ -242,11 +242,9 @@ Future improvements may include:
 
 ## Usage (Visual Studio Code)
 
-### 1. Download CASIA v1.0 dataset  
-From the following link:  
-https://drive.google.com/drive/u/1/folders/1uPjB4aAZwfOydTtthdO2y4j0HL_O2Fry
-
-Extract it and place the folder into the project directory.
+### 1. Extract CASIA v1.0 dataset  
+Extract the contents of `dataset.zip` **directly into the project directory**.  
+Do **not** place it inside an extra folder; the extracted files should be in the same directory as `main.py` and `config.py`.
 
 ### 2. Install required libraries
 ```bash
